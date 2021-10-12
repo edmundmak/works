@@ -1,0 +1,99 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.classpath
+.project
+
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+out
+server
+node_modules
+*.vsix
+.DS_Store
+.vscode-test
+*.suo
+undefined
+target
+dist
+bin/
+obj/
+
+*.iml
+server.log*
+test*.txt
+*.zip
+*.jdbc
+wtf/project/.vscode/settings.json
+wtf/util/WSDLMerge/.temp/
+wtf/util/RequestReplay/*.csv*
+wtf/project/wtf-war/.vscode/*
+wtf/project/omg-ejb/.vscode/*
+wtf/project/wtf-ejb/.vscode/*
+wtf/project/wtf-api/.vscode/*
+
+.idea/*
+wtf/.idea/*
+wtf/project/.idea/*
+wtf/project/wtf-war-generated.ts
+wtf/project/wtf-war/*.iml
+wtf/project/wtf-api/*.iml
+wtf/project/ext-api/*.iml
+wtf/project/omg-ejb/*.iml
+wtf/project/wtf-ejb/*.iml
+*.war
+*.deployed
+*.failed
+**/target/*
+/wtf/project/wtf2-x.iml
